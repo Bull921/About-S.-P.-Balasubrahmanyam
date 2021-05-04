@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://wallpapercave.com/wp/wp1879797.jpg);
+
+}
+.main{
+    background:rgba(0, 0, 0, .7);
+    height: 380px;
+    width: 850px;
+    margin-top: 70px;
+    margin-left: 230px;
+    display: flex;
+    border-radius: 5%;
+    margin-bottom: 50px;
+}
+.main1{
+    float: right;
+    padding: 20px;
+    margin-top: 70px;
+    margin-right: 20px;
+    
+}img{
+    border-radius: 15%;
+}
+h3{
+    color: white;
+    font-family: URW Chancery L, cursive;
+}
+.abdy{
+  margin-left: 40px;
+  margin-right: 5cm;
+}
+button{
+  margin-right: 8px;
+  background-color: rgb(188, 247, 51);
+  border: 1px solid black;
+  border-radius: 10%;
+}
+button:hover{
+  background-color: white;
+}
+h4{
+    font-family: URW Chancery L, cursive;
+}
+.main2{
+    margin-top: 30px;
+    padding: 20px;
+    float: left;
+}
+.topnav{
+    width: 100%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, .7);
+    border-bottom:5px solid white;
+}
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: 26px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+    height: 21px;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active :hover {
+    background-color: rgb(40, 185, 130);
+    color: white;
+    height: 21px;
+  }
+  .container{
+    
+  }
+  h2{
+    float: left;
+    margin-left: 60px;
+    background-color: rgb(83, 223, 204);
+  }
+  table{
+    width: 90%;
+    text-align: center;
+    margin-left:5% ;
+  }
+  div1,div2,div3,div4,div5{
+    padding-bottom: 25px;
+    margin-bottom: 20px;    
+  }
+  table,th{
+    border: 3px solid black;
+  }
+  p{
+    font-size: 19px;
+    padding: 3px;
+  }
+  td{
+    border: 1px solid black;
+    background-color: lightblue;
+  }
+  td:hover{
+    background-color: 
+    white;
+  }
+  a{
+    text-decoration: none;
+  }
+  th{
+    background-color: white;
+    height: 35px;
+  }
+  
